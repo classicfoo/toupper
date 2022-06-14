@@ -1,0 +1,10 @@
+C:\Users\micha\Desktop\toupper\toupper\bin\Debug\toupper.exe.config
+C:\Users\micha\Desktop\toupper\toupper\bin\Debug\toupper.exe
+C:\Users\micha\Desktop\toupper\toupper\bin\Debug\toupper.pdb
+C:\Users\micha\Desktop\toupper\toupper\obj\Debug\toupper.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\toupper\toupper\obj\Debug\toupper.Form1.resources
+C:\Users\micha\Desktop\toupper\toupper\obj\Debug\toupper.Properties.Resources.resources
+C:\Users\micha\Desktop\toupper\toupper\obj\Debug\toupper.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\toupper\toupper\obj\Debug\toupper.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\toupper\toupper\obj\Debug\toupper.exe
+C:\Users\micha\Desktop\toupper\toupper\obj\Debug\toupper.pdb
